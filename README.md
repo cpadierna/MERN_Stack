@@ -1,8 +1,4 @@
-# Jobify Clone
-
-#### Track Your Job Search
-
-Project in Action - [Jobify](https://www.jobify.live/)
+# MERN Stack Project (Work in Progress)
 
 #### Support
 
